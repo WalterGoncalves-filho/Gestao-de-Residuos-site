@@ -36,8 +36,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando o Easy Trash
 
-Você pode acessar o site para testes [clicando aqui](https://easytrash.free.nf/).
-
+Você pode acessar o site para testes! Clique do Badge abaixo 👇👇<!-- [clicando aqui](https://easytrash.free.nf/).-->
+<a href="https://easytrash.free.nf/">
+  <img src="https://img.shields.io/badge/Easy-Trash-%23699929?style=for-the-badge&labelColor=%2385c134&color=white">
+</a>
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
