@@ -6,9 +6,11 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-<img src="images\logo_semfundo.png" width="250">
-</p>
+<div align="center">
+  <a href="https://easytrash.free.nf/?i=1">
+        <img src="https://res.cloudinary.com/dkql5l71j/image/upload/v1737600201/logo_semfundo_ezsb8m.png" />
+    </a>
+</div>
 
 > O objetivo do site é apresentar o aplicativo Easy Trash, uma solução inovadora para a gestão sustentável e eficiente de resíduos. O aplicativo oferece aos usuários informações valiosas sobre o impacto ambiental dos seus hábitos de consumo, além de orientações sobre como gerenciar e descartar corretamente diferentes tipos de resíduos. A plataforma também indica os pontos de coleta disponíveis na cidade de Manaus/AM, promovendo uma cidade mais limpa e consciente.
 
