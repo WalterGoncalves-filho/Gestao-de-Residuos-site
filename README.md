@@ -37,12 +37,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ## ☕ Usando o Easy Trash
 
 Você pode acessar o site para testes! Clique do Badge abaixo 👇👇<br><!-- [clicando aqui](https://easytrash.free.nf/).-->
-<a href="https://easytrash.free.nf/">
-  <img src="https://img.shields.io/badge/Easy-Trash_Site-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square">
-</a>
-<a href="https://drive.google.com/file/d/1OtjmEPBRCgv_xigp7-Dpe_WV2pNFy6SY/view?usp=sharing" >
-  <img src="https://img.shields.io/badge/Easy-Trash_App-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square" />
-</a>
+[![EasyTrash Site](https://img.shields.io/badge/Easy-Trash_Site-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square)](https://easytrash.free.nf/)
+[![EasyTrash App](https://img.shields.io/badge/Easy-Trash_App-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square)](https://drive.google.com/file/d/1OtjmEPBRCgv_xigp7-Dpe_WV2pNFy6SY/view?usp=sharing)
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
