@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://easytrash.free.nf/?i=1">
-        <img src="https://res.cloudinary.com/dkql5l71j/image/upload/v1737600201/logo_semfundo_ezsb8m.png" width="500"/>
+        <img src="https://res.cloudinary.com/dkql5l71j/image/upload/v1737600201/logo_semfundo_ezsb8m.png" width="400"/>
     </a>
 </div>
 
