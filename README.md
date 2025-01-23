@@ -38,7 +38,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Você pode acessar o site para testes! Clique do Badge ao lado 👉👉<!-- [clicando aqui](https://easytrash.free.nf/).-->
 <a href="https://easytrash.free.nf/">
-  <img src="https://img.shields.io/badge/Easy-Trash-%23699929?labelColor=%2385c134&color=white">
+  <img src="https://img.shields.io/badge/Easy-Trash-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square">
 </a>
 ## 📝 Licença
 
