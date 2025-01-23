@@ -36,9 +36,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando o Easy Trash
 
-Você pode acessar o site para testes! Clique do Badge ao lado 👉👉<!-- [clicando aqui](https://easytrash.free.nf/).-->
+Você pode acessar o site para testes! Clique do Badge abaixo 👇👇<br><!-- [clicando aqui](https://easytrash.free.nf/).-->
 <a href="https://easytrash.free.nf/">
-  <img src="https://img.shields.io/badge/Easy-Trash-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/Easy-Trash_Site-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square">
+</a>
+<a href="https://drive.google.com/file/d/1OtjmEPBRCgv_xigp7-Dpe_WV2pNFy6SY/view?usp=sharing" >
+  <img src="https://img.shields.io/badge/Easy-Trash_App-white?logo=paperless-ngx&logoColor=green&color=green&labelColor=white&style=flat-square" />
 </a>
 ## 📝 Licença
 
