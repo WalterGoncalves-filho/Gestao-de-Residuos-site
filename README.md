@@ -38,7 +38,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Você pode acessar o site para testes! Clique do Badge abaixo 👇👇<br><!-- [clicando aqui](https://easytrash.free.nf/).-->
 [![EasyTrash Site](https://img.shields.io/badge/Easy-Trash_Site-white?logo=kueski&logoColor=green&color=green&labelColor=white&style=flat-square)](https://easytrash.free.nf/)
-[![EasyTrash App](https://img.shields.io/badge/Easy-Trash_App-white?logo=kueski&logoColor=green&color=green&labelColor=white&style=flat-square)](https://drive.google.com/file/d/1OtjmEPBRCgv_xigp7-Dpe_WV2pNFy6SY/view?usp=sharing)
+[![EasyTrash App](https://img.shields.io/badge/Easy-Trash_App-white?logo=kueski&logoColor=green&color=green&labelColor=white&style=flat-square)](https://github.com/WalterGoncalves-filho/Gestao-de-Residuos-site/raw/refs/heads/main/app/Easy%20Trash-release.apk)
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
